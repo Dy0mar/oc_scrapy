@@ -1,0 +1,9 @@
+/.idea/*
+/venv/*
+/dumps/*
+/oc_spider/oc_spider/catalog/*
+*.pyc
+/oc_spider/oc_spider/dump.py
+/merge_cats/*
+/image/*
+/oc_spider/oc_spider/spiders/spider_setting.py
